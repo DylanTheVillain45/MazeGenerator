@@ -1,0 +1,14 @@
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\bin\Debug\net9.0\Maze.exe
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\bin\Debug\net9.0\Maze.deps.json
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\bin\Debug\net9.0\Maze.runtimeconfig.json
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\bin\Debug\net9.0\Maze.dll
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\bin\Debug\net9.0\Maze.pdb
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.dll
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\refint\Maze.dll
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.pdb
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\Maze.genruntimeconfig.cache
+C:\Users\Dylan\Desktop\Coding\MazeProject-RoomBased\Maze\obj\Debug\net9.0\ref\Maze.dll
